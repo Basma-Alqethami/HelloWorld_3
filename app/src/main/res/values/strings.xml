@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">HelloWorld_3</string>
+    <string name="Instagram_Icon">Instagram</string>
+    <string name="address">Phone number, username or email</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="login">Log In</string>
+    <string name="mass">Instagram from facebook</string>
+    <string name="mass1">Countinue as Basma Alqethami</string>
+    <string name="mess2">__________________ Or __________________</string>
+    <string name="mess3">Do not have an account? </string>
+    <string name="mess4">Sign up</string>
+
 </resources>
